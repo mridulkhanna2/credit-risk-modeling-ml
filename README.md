@@ -22,5 +22,5 @@ We developed and compared multiple machine learning algorithms on a large-scale 
 ## 👨‍💻 Contributors  
 This project was completed as part of a group project.  
 - Akum0835 – Decision Tree Model  
-- Mkha0689 – XGBoost Model  
+- Mkha0689 – XGBoost Model  (Me)
 - Mpat0050 – Random Forest Model  
